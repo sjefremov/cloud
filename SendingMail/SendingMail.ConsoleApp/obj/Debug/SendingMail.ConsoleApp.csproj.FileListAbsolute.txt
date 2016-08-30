@@ -1,0 +1,12 @@
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\bin\Debug\SendingMail.ConsoleApp.exe.config
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\bin\Debug\SendingMail.ConsoleApp.exe
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\bin\Debug\SendingMail.ConsoleApp.pdb
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\bin\Debug\SendGrid.dll
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\obj\Debug\SendingMail.ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\obj\Debug\SendingMail.ConsoleApp.exe
+D:\Users\code\Desktop\sJefremov\SendingMail\SendingMail.ConsoleApp\obj\Debug\SendingMail.ConsoleApp.pdb
